@@ -1,0 +1,22 @@
+body {
+    background-color: #F4DDE1;
+}
+
+h1, h2 {
+    color: #8B5360;
+    font-family: Arial;
+}
+
+.destaque {
+    background-color: #FCECEF;
+    margin: 15px;
+}
+
+/*
+1. A regra mais difícil foi criar a classe .destaque. Consegui ultrapassar a dificuldade ao confirmar a escrita do código.
+
+2. O erro mais comum foi esquecer os pontos e vírgulas. Voltei ao Notepad++ para corrigir.
+
+3. O atributo href serve para criar uma ligação para outra página ou site. Neste caso, permite abrir a página da Wikipédia sobre os ursos.
+*/
+
